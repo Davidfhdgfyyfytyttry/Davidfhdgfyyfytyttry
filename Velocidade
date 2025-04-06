@@ -1,0 +1,1 @@
+createInputBox("WalkSpeed", 0.4, 16, function(value)     player.Character.Humanoid.WalkSpeed = value end)
